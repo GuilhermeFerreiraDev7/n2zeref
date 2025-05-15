@@ -56,22 +56,14 @@ yarn install
 3. Instale o pacote de ícones:
 
 ```bash
-npm start
-```
-
-4. Caso use React Native CLI, link o pacote de ícones:
-
-```bash
 npx react-native link react-native-vector-icons
 ```
 
-5. Execute o app:
+4. Execute o app:
 
 ```bash
-npx react-native run-android
-# ou
-npx react-native run-ios
-```
+npm start
+
 
 ---
 
